@@ -1,1 +1,1 @@
-# PlantDiseaseIdentification
+# Plant Disease Identification
